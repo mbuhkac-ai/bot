@@ -19,6 +19,11 @@ npm install
 ## jalankan 
 ```bash
 npm start
+```
+## cara pairing 
+```bash
+npm start --pair
+
 
 
 
