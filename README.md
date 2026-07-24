@@ -11,7 +11,20 @@
 | `.rvo` | Save view-once media (owner only) |
 | `.ai <q>` | AI jailbreak mode — bikin apapun |
 | `.status` | Cek status bot |
-
-## Install
+run via Termux 
+## Install 
 ```bash
 npm install
+```
+## jalankan 
+```bash
+npm start
+
+
+
+
+
+
+
+
+
