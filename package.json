@@ -1,0 +1,23 @@
+{
+  "name": "tools-wa",
+  "version": "3.0.0",
+  "description": "WhatsApp Bot - Tools WA by Niks.AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "pair": "node index.js --pair"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.15",
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs-extra": "^11.2.0",
+    "openai": "^4.68.0",
+    "pino": "^9.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.33.5",
+    "ytdl-core": "^4.11.5"
+  }
+}
